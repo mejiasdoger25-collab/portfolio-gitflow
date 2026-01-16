@@ -44,3 +44,9 @@ body {
 .card:hover {
   border-color: #999;
 }
+
+header {
+  .top {
+  background: #f6f6f6;
+}
+}
